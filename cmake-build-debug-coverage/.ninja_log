@@ -1,0 +1,5 @@
+# ninja log v5
+0	51	1645038179967808307	CMakeFiles/Project2_starter_files.dir/header.c.o	7e3fc4d7626a5e1f
+0	103	1645052304093276698	CMakeFiles/Project2_starter_files.dir/Project2.cpp.o	f6d52fccd33a4657
+103	175	1645052304165131273	Project2_starter_files	deab0d9557bb769a
+1	340	1645038180257692293	CMakeFiles/Project2_starter_files.dir/main.cpp.o	6c6d1f39850b95cb
